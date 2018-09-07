@@ -1,0 +1,13 @@
+sai venkat
+
+Jenkins, Ruby, Maven , Git, Webhooks, status Check 
+
+Existing Project - CI / CD
+
+Ruby scripting - for create repo , enable webhhoks, enable some features
+
+Ruby Script for 
+
+declarative pipeline & Scripted pipeline
+
+Jenkins FIles
